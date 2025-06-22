@@ -1,4 +1,4 @@
-# Muppet Dev
+# Muppet - The MCP Development Platform
 
 We're making MCP development accessible, scalable, and production-ready for teams worldwide.
 
